@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @lwshowl
-- 👀 I’m interested in cs
-- 🌱 I’m currently learning computer architectures
-- 💞️ I’m looking to collaborate on building cpus
-- 📫 qq 379115456 xiangyu980105@163.com
+- 👀 I’m interested in fishing
+- 🌱 I’m currently fishing
+- 💞️ I’m looking to collaborate on maters on fishing
+- 📫 xiangyu980105@163.com
 
 <!---
 lwshowl/lwshowl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
